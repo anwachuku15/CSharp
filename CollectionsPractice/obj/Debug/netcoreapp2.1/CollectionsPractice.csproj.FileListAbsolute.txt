@@ -1,0 +1,11 @@
+/Users/andrewnwachuku/Desktop/code/C#/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.deps.json
+/Users/andrewnwachuku/Desktop/code/C#/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.runtimeconfig.json
+/Users/andrewnwachuku/Desktop/code/C#/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.runtimeconfig.dev.json
+/Users/andrewnwachuku/Desktop/code/C#/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.dll
+/Users/andrewnwachuku/Desktop/code/C#/CollectionsPractice/bin/Debug/netcoreapp2.1/CollectionsPractice.pdb
+/Users/andrewnwachuku/Desktop/code/C#/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.csprojAssemblyReference.cache
+/Users/andrewnwachuku/Desktop/code/C#/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.csproj.CoreCompileInputs.cache
+/Users/andrewnwachuku/Desktop/code/C#/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/andrewnwachuku/Desktop/code/C#/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.AssemblyInfo.cs
+/Users/andrewnwachuku/Desktop/code/C#/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.dll
+/Users/andrewnwachuku/Desktop/code/C#/CollectionsPractice/obj/Debug/netcoreapp2.1/CollectionsPractice.pdb
