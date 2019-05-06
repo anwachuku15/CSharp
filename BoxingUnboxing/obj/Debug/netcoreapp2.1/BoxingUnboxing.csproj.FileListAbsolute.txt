@@ -1,0 +1,11 @@
+/Users/andrewnwachuku/Desktop/code/C#/BoxingUnboxing/bin/Debug/netcoreapp2.1/BoxingUnboxing.deps.json
+/Users/andrewnwachuku/Desktop/code/C#/BoxingUnboxing/bin/Debug/netcoreapp2.1/BoxingUnboxing.runtimeconfig.json
+/Users/andrewnwachuku/Desktop/code/C#/BoxingUnboxing/bin/Debug/netcoreapp2.1/BoxingUnboxing.runtimeconfig.dev.json
+/Users/andrewnwachuku/Desktop/code/C#/BoxingUnboxing/bin/Debug/netcoreapp2.1/BoxingUnboxing.dll
+/Users/andrewnwachuku/Desktop/code/C#/BoxingUnboxing/bin/Debug/netcoreapp2.1/BoxingUnboxing.pdb
+/Users/andrewnwachuku/Desktop/code/C#/BoxingUnboxing/obj/Debug/netcoreapp2.1/BoxingUnboxing.csprojAssemblyReference.cache
+/Users/andrewnwachuku/Desktop/code/C#/BoxingUnboxing/obj/Debug/netcoreapp2.1/BoxingUnboxing.csproj.CoreCompileInputs.cache
+/Users/andrewnwachuku/Desktop/code/C#/BoxingUnboxing/obj/Debug/netcoreapp2.1/BoxingUnboxing.AssemblyInfoInputs.cache
+/Users/andrewnwachuku/Desktop/code/C#/BoxingUnboxing/obj/Debug/netcoreapp2.1/BoxingUnboxing.AssemblyInfo.cs
+/Users/andrewnwachuku/Desktop/code/C#/BoxingUnboxing/obj/Debug/netcoreapp2.1/BoxingUnboxing.dll
+/Users/andrewnwachuku/Desktop/code/C#/BoxingUnboxing/obj/Debug/netcoreapp2.1/BoxingUnboxing.pdb
