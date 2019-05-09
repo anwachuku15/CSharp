@@ -1,0 +1,11 @@
+/Users/andrewnwachuku/Desktop/code/C#/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.deps.json
+/Users/andrewnwachuku/Desktop/code/C#/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.runtimeconfig.json
+/Users/andrewnwachuku/Desktop/code/C#/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.runtimeconfig.dev.json
+/Users/andrewnwachuku/Desktop/code/C#/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.dll
+/Users/andrewnwachuku/Desktop/code/C#/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.pdb
+/Users/andrewnwachuku/Desktop/code/C#/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.csprojAssemblyReference.cache
+/Users/andrewnwachuku/Desktop/code/C#/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.csproj.CoreCompileInputs.cache
+/Users/andrewnwachuku/Desktop/code/C#/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.AssemblyInfoInputs.cache
+/Users/andrewnwachuku/Desktop/code/C#/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.AssemblyInfo.cs
+/Users/andrewnwachuku/Desktop/code/C#/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.dll
+/Users/andrewnwachuku/Desktop/code/C#/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.pdb
