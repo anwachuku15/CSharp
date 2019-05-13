@@ -1,0 +1,11 @@
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/HungryNinja/obj/Debug/netcoreapp2.1/HungryNinja.csprojAssemblyReference.cache
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/HungryNinja/obj/Debug/netcoreapp2.1/HungryNinja.csproj.CoreCompileInputs.cache
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/HungryNinja/obj/Debug/netcoreapp2.1/HungryNinja.AssemblyInfoInputs.cache
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/HungryNinja/obj/Debug/netcoreapp2.1/HungryNinja.AssemblyInfo.cs
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/HungryNinja/bin/Debug/netcoreapp2.1/HungryNinja.deps.json
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/HungryNinja/bin/Debug/netcoreapp2.1/HungryNinja.runtimeconfig.json
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/HungryNinja/bin/Debug/netcoreapp2.1/HungryNinja.runtimeconfig.dev.json
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/HungryNinja/bin/Debug/netcoreapp2.1/HungryNinja.dll
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/HungryNinja/bin/Debug/netcoreapp2.1/HungryNinja.pdb
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/HungryNinja/obj/Debug/netcoreapp2.1/HungryNinja.dll
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/HungryNinja/obj/Debug/netcoreapp2.1/HungryNinja.pdb
