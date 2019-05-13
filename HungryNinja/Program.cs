@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace HungryNinja
@@ -84,7 +84,6 @@ namespace HungryNinja
             else {
                 Console.WriteLine("The ninja is full and cannot eat anymore!");
             }
-            
         }
     }
 
@@ -94,9 +93,12 @@ namespace HungryNinja
     {
         static void Main(string[] args)
         {
-            
-            // Console.WriteLine(item.Name);
-            // Serve();
+            Buffet myBuffet = new Buffet();
+            Ninja myNinja = new Ninja();
+            myNinja.Eat(myBuffet.Serve());
+            myNinja.Eat(myBuffet.Serve());
+            myNinja.Eat(myBuffet.Serve());
+            myNinja.Eat(myBuffet.Serve());
         }
     }
 }
