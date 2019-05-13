@@ -1,0 +1,11 @@
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/Human/bin/Debug/netcoreapp2.1/Human.deps.json
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/Human/bin/Debug/netcoreapp2.1/Human.runtimeconfig.json
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/Human/bin/Debug/netcoreapp2.1/Human.runtimeconfig.dev.json
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/Human/bin/Debug/netcoreapp2.1/Human.dll
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/Human/bin/Debug/netcoreapp2.1/Human.pdb
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/Human/obj/Debug/netcoreapp2.1/Human.csprojAssemblyReference.cache
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/Human/obj/Debug/netcoreapp2.1/Human.csproj.CoreCompileInputs.cache
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/Human/obj/Debug/netcoreapp2.1/Human.AssemblyInfoInputs.cache
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/Human/obj/Debug/netcoreapp2.1/Human.AssemblyInfo.cs
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/Human/obj/Debug/netcoreapp2.1/Human.dll
+/Users/andrewnwachuku/Desktop/code/C#/OOPwithC#/Human/obj/Debug/netcoreapp2.1/Human.pdb
