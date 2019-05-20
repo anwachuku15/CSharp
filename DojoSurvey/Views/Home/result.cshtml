@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylsheet" href="~/css/style.css"/>
+    <title>Dojo Survey</title>
+</head>
+<body>
+    <div>
+        <h2>Submitted Info</h2>
+        @{
+            <p>Name: <span style="color:blue">@ViewBag.Name</span></p>
+            <p>Dojo Location: <span style="color:blue">@ViewBag.Location</span></p>
+            <p>Favorite Language: <span style="color:blue">@ViewBag.Language</span></p>
+            <p>Comment: <span style="color:blue">@ViewBag.Comment</span></p>
+        }
+    </div>
+</body>
+</html>

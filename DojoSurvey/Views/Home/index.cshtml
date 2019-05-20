@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylsheet" href="~/css/style.css"/>
+    <title>Dojo Survey Index</title>
+</head>
+<body>
+    <fieldset>
+        <legend>Form</legend>
+        <form id="userform" action="result" method="POST">
+            Your name: <input type="text" name="name">
+            Dojo Location: <input list="locations" name="locations">
+            <datalist id="locations" name="location">
+                <option value="Berkeley, CA">
+                <option value="Boise, ID">
+                <option value="Chicago, IL">
+                <option value="Dallas, TX">
+                <option value="Los Angeles, CA">
+                <option value="Orange County, CA">
+                <option value="Seattle, WA">
+                <option value="Silicon Valley, CA">
+                <option value="Tulsa, OK">
+                <option value="Tysons Corner, VA">
+            </datalist> 
+            Favorite Language: <input list="languages" name="languages">
+            <datalist id="languages" name="language">
+                <option value="C#">
+                <option value="Java">
+                <option value="MEAN">
+                <option value="Python">
+                <option value="Ruby">
+            </datalist>
+            Comment (optional): <textarea form="userform" name="comment"></textarea>
+            <input type="submit" value="Submit">
+        </form>
+    </fieldset>
+    
+</body>
+</html>
