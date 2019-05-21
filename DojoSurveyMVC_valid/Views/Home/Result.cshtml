@@ -1,0 +1,13 @@
+@using DojoSurveyMVC.Models;
+@model User;
+
+<h2>Submitted Info</h2>
+
+
+<p>Name: <span style="color:blue">@Model.Name</span></p>
+<p>Dojo Location: <span style="color:blue">@Model.Location</span></p>
+<p>Favorite Language: <span style="color:blue">@Model.Language</span></p>
+<p>Comment: <span style="color:blue">@Model.Comment</span></p>
+<form action="/">
+    <input type="submit" value="Go Back">
+</form>

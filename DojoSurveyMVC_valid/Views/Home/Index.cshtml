@@ -1,0 +1,44 @@
+﻿@model User
+
+<fieldset>
+    <legend>Form</legend>
+    <form asp-action="Entry" asp-controller="Home" method="POST">
+        <label asp-for="Name"></label>
+        <input asp-for="Name">
+        <span asp-validation-for="Name"></span>
+        <br>
+        <br>
+        <label asp-for="Location"></label>
+        <select asp-for="Location">
+            <option value="Berkeley, CA">Berkley, CA</option>
+            <option value="Boise, ID">Boise, ID</option>
+            <option value="Chicago, IL">Chicago, IL</option>
+            <option value="Dallas, TX">Dallas, TX</option>
+            <option value="Los Angeles, CA">Los Angeles, CA</option>
+            <option value="Orange County, CA">Orange County, CA</option>
+            <option value="Seattle, WA">Seattle, WA</option>
+            <option value="Silicon Valley, CA">Silicon Valley, CA</option>
+            <option value="Tulsa, OK">Tulsa, OK</option>
+            <option value="Tysons Corner, VA">Tysons Corner, VA</option>
+        </select> 
+        <br>
+        <br>
+        <label asp-for="Language"></label>
+        <select asp-for="Language">
+            <option value="C#">C#</option>
+            <option value="Java">Java</option>
+            <option value="MEAN">MEAN</option>
+            <option value="Python">Python</option>
+            <option value="Ruby">Ruby</option>
+        </select>
+        <br>
+        <br>
+        <label asp-for="Comment"></label>
+        <textarea asp-for="Comment"></textarea>
+        <span asp-validation-for="Comment"></span>
+        <br>
+        <br>
+        <!-- <input type="submit" value="Submit"> -->
+        <button>Submit</button>
+    </form>
+</fieldset>
