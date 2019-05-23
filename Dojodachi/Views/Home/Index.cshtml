@@ -1,0 +1,34 @@
+﻿
+
+<h1>DojoDachi!</h1>
+
+<ul>
+    <li>Fullness: @ViewBag.Fullness  |  </li>
+    <li>Happiness: @ViewBag.Happiness  |  </li>
+    <li>Energy: @ViewBag.Energy  |  </li>
+    <li>Meals: @ViewBag.Meals</li>
+</ul>
+
+
+
+
+<div class="forms">
+    <form action="feed" method="POST">
+        <button id="feed" type="submit">Feed</button>
+    </form>
+
+    <form action="play" method="POST">
+        <button type="submit">Play</button>
+    </form>
+
+    <form action="work" method="POST">
+        <button type="submit">Work</button>
+    </form>
+
+    <form action="sleep" method="POST">
+        <button type="submit">Sleep</button>
+    </form> 
+    
+</div>
+
+<p class="feed">@ViewBag.Feed</p>
