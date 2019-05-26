@@ -1,0 +1,15 @@
+@model User
+
+<h1>Here are the awesome quotes!</h1>
+<button><a href="/">Make a quote!</a></button>
+<br>
+<br>
+<div>
+    @foreach(var user in ViewBag.Users)
+    {
+        <!-- Remember, these are Dictionaries - so you must use user["KeyName"] to access the values within -->
+        <p><q>@user["quote"]</q></p>
+        <p>             - @user["name"] at @user["created_at"]</p>
+        <hr>
+    }
+</div>
