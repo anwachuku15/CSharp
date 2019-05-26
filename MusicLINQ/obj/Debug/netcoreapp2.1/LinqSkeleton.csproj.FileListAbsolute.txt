@@ -1,0 +1,11 @@
+/Users/andrewnwachuku/Desktop/code/C#/LINQ/MusicLINQ/bin/Debug/netcoreapp2.1/LinqSkeleton.deps.json
+/Users/andrewnwachuku/Desktop/code/C#/LINQ/MusicLINQ/bin/Debug/netcoreapp2.1/LinqSkeleton.runtimeconfig.json
+/Users/andrewnwachuku/Desktop/code/C#/LINQ/MusicLINQ/bin/Debug/netcoreapp2.1/LinqSkeleton.runtimeconfig.dev.json
+/Users/andrewnwachuku/Desktop/code/C#/LINQ/MusicLINQ/bin/Debug/netcoreapp2.1/LinqSkeleton.dll
+/Users/andrewnwachuku/Desktop/code/C#/LINQ/MusicLINQ/bin/Debug/netcoreapp2.1/LinqSkeleton.pdb
+/Users/andrewnwachuku/Desktop/code/C#/LINQ/MusicLINQ/obj/Debug/netcoreapp2.1/LinqSkeleton.csprojAssemblyReference.cache
+/Users/andrewnwachuku/Desktop/code/C#/LINQ/MusicLINQ/obj/Debug/netcoreapp2.1/LinqSkeleton.csproj.CoreCompileInputs.cache
+/Users/andrewnwachuku/Desktop/code/C#/LINQ/MusicLINQ/obj/Debug/netcoreapp2.1/LinqSkeleton.AssemblyInfoInputs.cache
+/Users/andrewnwachuku/Desktop/code/C#/LINQ/MusicLINQ/obj/Debug/netcoreapp2.1/LinqSkeleton.AssemblyInfo.cs
+/Users/andrewnwachuku/Desktop/code/C#/LINQ/MusicLINQ/obj/Debug/netcoreapp2.1/LinqSkeleton.dll
+/Users/andrewnwachuku/Desktop/code/C#/LINQ/MusicLINQ/obj/Debug/netcoreapp2.1/LinqSkeleton.pdb
