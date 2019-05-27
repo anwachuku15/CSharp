@@ -1,0 +1,22 @@
+@using CRUDelicious.Models;
+@model Dish;
+
+<partial name="NavPartial"></partial>
+<h1>@Model.Name</h1>
+<h3>@Model.Chef</h3>
+<br>
+<hr>
+<br>
+<p class="desc">@Model.Description</p>
+<p>Calories: @Model.Calories</p>
+<p>Tastiness: @Model.Tastiness</p>
+
+<div class="buttons">
+    <form action="delete/@Model.DishID" method="POST">
+        <input type="submit" value="Delete">
+    </form>
+
+    <form action="edit/@Model.DishID" method="POST">
+        <input type="submit" value="Edit">
+    </form>
+</div>

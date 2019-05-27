@@ -1,0 +1,47 @@
+@model Dish
+
+<h1>Add a new Dish!</h1>
+<partial name="NavPartial"></partial>
+<br>
+<br>
+<br>
+<br>
+<div class="form">
+    <form asp-action="Add" asp-controller="Home" method="POST">
+        <div class="input">
+            <label asp-for="Chef"></label>
+            <input asp-for="Chef">
+            <span asp-validation-for="Chef"></span>
+        </div>
+
+        <div class="input">
+            <label asp-for="Name"></label>
+            <input asp-for="Name">
+            <span asp-validation-for="Name"></span>
+        </div>
+
+        <div class="input">
+            <label asp-for="Calories"></label>
+            <input asp-for="Calories" value=0>
+            <span asp-validation-for="Calories"></span>
+        </div>
+
+        <div>
+            <label asp-for="Tastiness"></label>
+            <select asp-for="Tastiness">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+        </div>
+
+        <div>
+            <label asp-for="Description"></label>
+            <textarea asp-for="Description"></textarea>
+            <span asp-validation-for="Description"></span>
+        </div>
+        <input type="submit">
+    </form>    
+</div>
