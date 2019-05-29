@@ -1,0 +1,42 @@
+﻿@using System;
+@using ChefsNDishes.Models;
+@using Microsoft.EntityFrameworkCore;
+@using System.Linq;
+@model List<Chef>;
+
+<div class="jumbotron">
+    <h1>Chefs | <a href="dishes">Dishes</a></h1>
+    <h4><a href="new">Add a Chef</a></h4>
+</div>
+
+<h2>Check out our roster of Chefs!</h2>
+<hr>
+
+<table class="table table-striped">
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th># of Dishes</th>
+    </tr>
+
+    @foreach(var chef in Model)
+    {
+        <tr>
+            <td>@chef.FirstName @chef.LastName</td>
+            <td>
+                @{
+                    DateTime Today = DateTime.Now;
+                    int Age = new DateTime(DateTime.Now.Subtract(@chef.DOB).Ticks).Year - 1;
+                    Console.WriteLine(Age);
+                }
+                @Age
+            </td>
+            <td>
+                @{
+                    int DishCount = @chef.CreatedDishes.Count;
+                }
+                @DishCount
+            </td>
+        </tr>
+    }
+</table>

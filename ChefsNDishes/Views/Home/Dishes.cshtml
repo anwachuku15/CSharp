@@ -1,0 +1,31 @@
+@using ChefsNDishes.Models;
+@using System.Linq;
+@model List<Dish>;
+
+<div class="jumbotron">
+    <h1><a href="/">Chefs</a> | Dishes</h1>
+    <h4><a href="dishes/new">Add a Dish</a></h4>
+</div>
+
+<h2>Yum, take a look at our tasty dishes!</h2>
+<hr>
+
+<table class="table table-striped">
+    <tr>
+        <th>Name</th>
+        <th>Chef</th>
+        <th>Tastiness</th>
+        <th>Calories</th>
+    </tr>
+
+    @foreach(var dish in Model)
+    {
+        <tr>
+            <td>@dish.Name</td>
+            <td>@dish.Creator.FirstName @dish.Creator.LastName</td>
+            <td>@dish.Tastiness</td>
+            <td>@dish.Calories</td>
+        </tr>
+    }
+
+</table>
