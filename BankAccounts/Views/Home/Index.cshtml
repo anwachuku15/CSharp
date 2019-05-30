@@ -1,0 +1,36 @@
+﻿@model User
+
+<div class="jumbotron">
+    <h3>Register</h3>
+</div>
+
+<form asp-action="Register" asp-controller="Home" method="post">
+    <div class="form-group col-sm-6">
+        <label asp-for="FirstName"></label>
+        <span asp-validation-for="FirstName"></span>
+        <input type="text" asp-for="FirstName" class="form-control" />
+    </div>
+    <div class="form-group col-sm-6">
+        <label asp-for="LastName"></label>
+        <span asp-validation-for="LastName"></span>
+        <input type="text" asp-for="LastName" class="form-control" />
+    </div>
+    <div class="form-group col-sm-6">
+        <label asp-for="Email"></label>
+        <span asp-validation-for="Email"></span>
+        <input type="text" asp-for="Email" class="form-control" />
+    </div>
+    <div class="form-group col-sm-6">
+        <label asp-for="Password"></label>
+        <span asp-validation-for="Password"></span>
+        <input type="password" asp-for="Password" class="form-control" />
+    </div>
+    <div class="form-group col-sm-6">
+        <label asp-for="Confirm"></label>
+        <span asp-validation-for="Confirm"></span>
+        <input type="password" asp-for="Confirm" class="form-control" />
+    </div>
+    <input type="submit" class="btn btn-primary" />
+</form>
+
+<a href="login">Already Registered?</a>
